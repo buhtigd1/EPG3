@@ -14,6 +14,15 @@ channel_replacements = {
     '<channel id="TNTSports2.uk@HD">': '<channel id="TNT 2 - AQ">',
     '<channel id="TNTSports3.uk@HD">': '<channel id="TNT 3 - AQ">',
     '<channel id="TNTSports4.uk@HD">': '<channel id="TNT 4 - AQ">',
+    '<channel id="TNTLatinAmerica.us@Mexico">': '<channel id="TNT MX - AQ">',
+    '<channel id="Willow.us@SD">': '<channel id="WILLOW - AQ">',
+    '<channel id="beINSports1.qa@MENA">': '<channel id="beIN Sports 1 - AQ">',
+    '<channel id="beINSports2.qa@MENA">': '<channel id="beIN Sports 2 - AQ">',
+    '<channel id="beINSports3.qa@MENA">': '<channel id="beIN Sports 3 - AQ">',
+    '<channel id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839">': '<channel id="beIN ENGLISH 1">',
+    '<channel id="beINSports1.qa@Australia">': '<channel id="beIN Sports 1 AU - AQ">',
+    '<channel id="beINSports2.qa@Australia">': '<channel id="beIN Sports 2 AU - AQ">',
+    '<channel id="C938A2D0-375A-4876-B05D-08EE29D33B07">': '<channel id="beIN Sports Xtra">',
 }
 
 # Replacement mapping for programme channel attributes
@@ -22,6 +31,16 @@ programme_replacements = {
     'channel="TNTSports2.uk@HD"': 'channel="TNT 2 - AQ"',
     'channel="TNTSports3.uk@HD"': 'channel="TNT 3 - AQ"',
     'channel="TNTSports4.uk@HD"': 'channel="TNT 4 - AQ"',
+    'channel="TNTLatinAmerica.us@Mexico"': 'channel="TNT MX - AQ"',
+    'channel="Willow.us@SD"': 'channel="WILLOW - AQ"',
+    'channel="beINSports1.qa@MENA"': 'channel="beIN Sports 1 - AQ"',
+    'channel="beINSports2.qa@MENA"': 'channel="beIN Sports 2 - AQ"',
+    'channel="beINSports3.qa@MENA"': 'channel="beIN Sports 3 - AQ"',
+    'channel="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"': 'channel="beIN ENGLISH 1"',
+    'channel="beINSports1.qa@Australia"': 'channel="beIN Sports 1 AU - AQ"',
+    'channel="beINSports2.qa@Australia"': 'channel="beIN Sports 2 AU - AQ"',
+    'channel="C938A2D0-375A-4876-B05D-08EE29D33B07"': 'channel="beIN Sports Xtra"',
+
 }
 
 def download_and_compress():
